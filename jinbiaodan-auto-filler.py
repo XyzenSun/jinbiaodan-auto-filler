@@ -7,7 +7,7 @@ import copy
 # version 0.1
 # Need to capture packets to get the content to fill in
 # Questionnaire ID
-WID = "38778"
+WID = ""
 # Original template of questionnaire questions (in JSON string format) - Example content filled in
 QUESTIONS_TEMPLATE_JSON = """
 [{"c_nums":[],"fillText":"","qt":"single","mc":0,"title":"您的性别：","fillTexts":"","qid":2203189,"extra":{},"answers":[{"selfChoice":true,"value":"男","indexLetter":"A"},{"selfChoice":false,"value":"女","indexLetter":"B"}]
